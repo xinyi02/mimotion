@@ -11,7 +11,7 @@
 
 ## Github Actions 部署指南
 
-### 一、Fork 此仓库
+### 一、Fork 此仓库  
 
 ### 二、设置账号密码
 > 添加名为  **USER**、**PWD**、**SKEY**、**SCKEY**、**POSITION** 、**CORPID**、**CORPSECRET**、**AGENTID**、**TOUSER**、**TOPARTY**、**TOTAG**、**OPEN_GET_WEATHER**、**AREA**的变量: Settings-->Secrets-->New secret  
